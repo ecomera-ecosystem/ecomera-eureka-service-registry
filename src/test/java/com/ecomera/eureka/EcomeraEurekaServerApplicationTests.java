@@ -1,10 +1,10 @@
-package com.youssef.ecomera_eureka_service_registry;
+package com.ecomera.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcomeraEurekaServiceRegistryApplicationTests {
+class EcomeraEurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ecomera</groupId>
-	<artifactId>ecomera-eureka-service-registry</artifactId>
+	<artifactId>ecomera-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ecomera-eureka-service-registry</name>
+	<name>ecomera-eureka-server</name>
 	<description>Eureka Dynamic Service Discovery in the Ecomera ecosystem.</description>
 	<url>https://ecomera.vercel.app</url>
 

@@ -1,4 +1,4 @@
-package com.youssef.ecomera_eureka_service_registry;
+package com.ecomera.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @EnableEurekaServer
 @SpringBootApplication
-public class EcomeraEurekaServiceRegistryApplication {
+public class EcomeraEurekaServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EcomeraEurekaServiceRegistryApplication.class, args);
+		SpringApplication.run(EcomeraEurekaServerApplication.class, args);
 	}
 
 }

@@ -1,5 +1,5 @@
 spring:
   application:
-    name: ecomera-eureka-service-registry
+    name: ecomera-eureka-server
   config:
     import: optional:configserver:http://${CONFIG_SERVER_HOST:localhost}:${CONFIG_SERVER_PORT:8888}
